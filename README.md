@@ -34,3 +34,74 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+
+
+src/
+│
+├── app/
+│   ├── layout.tsx
+│   ├── page.tsx
+│   │
+│   ├── articles/
+│   │   └── [slug]/
+│   │       └── page.tsx
+│   │
+│   └── category/
+│       └── [slug]/
+│           └── page.tsx
+│
+├── components/
+│   ├── layout/
+│   │   ├── Container.tsx
+│   │   ├── Navbar.tsx
+│   │   └── Footer.tsx
+│   │
+│   ├── home/
+│   │   ├── Hero.tsx
+│   │   ├── FeaturedArticles.tsx
+│   │   ├── LatestArticles.tsx
+│   │   ├── Categories.tsx
+│   │   └── PopularArticles.tsx
+│   │
+│   ├── article/
+│   │   ├── Header.tsx
+│   │   ├── Content.tsx
+│   │   ├── Sidebar.tsx
+│   │   └── RelatedArticles.tsx
+│   │
+│   ├── category/
+│   │   ├── Header.tsx
+│   │   └── Grid.tsx
+│   │
+│   ├── cards/
+│   │   ├── ArticleCard.tsx
+│   │   └── CategoryCard.tsx
+│   │
+│   └── ui/
+│
+├── data/
+│   ├── articles.ts
+│   ├── categories.ts
+│   └── author.ts
+│
+├── types/
+│   ├── article.ts
+│   ├── category.ts
+│   └── author.ts
+│
+└── lib/
+    └── utils.
+    
+
+
+    Total
+3 pages
+3 layout components
+11 page-specific components
+2 reusable cards
+3 data files
+3 type files
+1 utility file
+
+That's about 26 source files, w
