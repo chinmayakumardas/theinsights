@@ -13,8 +13,8 @@ import {
 
 const navItems = [
   {
-    title: "Home",
-    href: "/",
+    title: "About",
+    href: "/about",
   },
   {
     title: "Categories",
@@ -89,3 +89,5 @@ export default function Navbar() {
     </header>
   );
 }
+
+

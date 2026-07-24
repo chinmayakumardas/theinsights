@@ -36,7 +36,12 @@ Mastering the Next.js App Router is not just about learning a new routing system
 
     coverImage: "/images/blog.jpg",
 
-    category: "Next.js",
+     categories: [
+      "Next.js",
+      "React",
+      "TypeScript",
+    ],
+
 
     publishedAt: "24 Jul 2026",
 
@@ -85,7 +90,11 @@ Performance optimization should become part of the development process from the 
 
     coverImage: "/images/blog.jpg",
 
-    category: "React",
+      categories: [
+     
+      "TypeScript",
+    ],
+
 
     publishedAt: "20 Jul 2026",
 
@@ -136,7 +145,12 @@ TypeScript is not only a development tool. It is a way to improve collaboration,
 
     coverImage: "/images/blog.jpg",
 
-    category: "TypeScript",
+      categories: [
+      "Next.js",
+      "React",
+     
+    ],
+
 
     publishedAt: "18 Jul 2026",
 
@@ -185,7 +199,266 @@ The future of software development is not humans versus AI. It is humans using A
 
     coverImage: "/images/blog.jpg",
 
-    category: "AI",
+      categories: [
+      
+      "TypeScript",
+    ],
+
+
+    publishedAt: "15 Jul 2026",
+
+    readingTime: "9 min",
+
+    featured: true,
+
+    popular: true,
+  },
+   {
+    id: "4",
+    slug: "future-of-ai",
+
+    title: "Future of AI in Software Development",
+
+    excerpt:
+      "Understanding how artificial intelligence is changing the future of software engineering.",
+
+    content: `
+# Future of AI in Software Development
+
+Artificial Intelligence is transforming the software development industry at an incredible speed. From code assistance to automated testing, AI tools are changing how developers design, build, and maintain applications.
+
+One of the biggest impacts of AI is increased developer productivity. AI-powered coding assistants can help developers generate code examples, explain complex concepts, identify bugs, and suggest improvements.
+
+However, AI is not replacing software engineers. Instead, it is becoming a powerful tool that allows developers to focus on higher-level problem solving. Understanding architecture, business requirements, security, and user experience remains essential.
+
+AI is also improving software testing. Traditional testing processes can require significant time and effort. AI-powered systems can analyze code, generate test cases, and identify possible issues before applications reach production.
+
+Another important area is automation. Developers can now use AI to automate repetitive tasks such as documentation generation, code refactoring, and data analysis. This allows teams to spend more time creating valuable features.
+
+AI is also influencing application development itself. Modern applications are increasingly integrating machine learning models, recommendation systems, chatbots, and intelligent automation features.
+
+For businesses, AI creates opportunities to build smarter products and improve customer experiences. Companies can analyze large amounts of data, automate workflows, and provide personalized services.
+
+However, AI adoption also introduces challenges. Developers must consider data privacy, security risks, model accuracy, and ethical concerns. Building responsible AI systems requires careful planning and understanding.
+
+The future developer will not simply be someone who writes code. The future developer will be someone who understands how to use technology, AI tools, and engineering principles together to solve complex problems.
+
+AI will continue to evolve, but the fundamentals of software engineering will remain important. Strong programming skills, system design knowledge, and problem-solving ability will continue to separate great developers from average ones.
+
+The future of software development is not humans versus AI. It is humans using AI to create better, faster, and more innovative solutions.
+`,
+
+    coverImage: "/images/blog.jpg",
+
+      categories: [
+      
+      "TypeScript",
+    ],
+
+
+    publishedAt: "15 Jul 2026",
+
+    readingTime: "9 min",
+
+    featured: true,
+
+    popular: true,
+  },
+   {
+    id: "64",
+    slug: "future-of-ai",
+
+    title: "Future of AI in Software Development",
+
+    excerpt:
+      "Understanding how artificial intelligence is changing the future of software engineering.",
+
+    content: `
+# Future of AI in Software Development
+
+Artificial Intelligence is transforming the software development industry at an incredible speed. From code assistance to automated testing, AI tools are changing how developers design, build, and maintain applications.
+
+One of the biggest impacts of AI is increased developer productivity. AI-powered coding assistants can help developers generate code examples, explain complex concepts, identify bugs, and suggest improvements.
+
+However, AI is not replacing software engineers. Instead, it is becoming a powerful tool that allows developers to focus on higher-level problem solving. Understanding architecture, business requirements, security, and user experience remains essential.
+
+AI is also improving software testing. Traditional testing processes can require significant time and effort. AI-powered systems can analyze code, generate test cases, and identify possible issues before applications reach production.
+
+Another important area is automation. Developers can now use AI to automate repetitive tasks such as documentation generation, code refactoring, and data analysis. This allows teams to spend more time creating valuable features.
+
+AI is also influencing application development itself. Modern applications are increasingly integrating machine learning models, recommendation systems, chatbots, and intelligent automation features.
+
+For businesses, AI creates opportunities to build smarter products and improve customer experiences. Companies can analyze large amounts of data, automate workflows, and provide personalized services.
+
+However, AI adoption also introduces challenges. Developers must consider data privacy, security risks, model accuracy, and ethical concerns. Building responsible AI systems requires careful planning and understanding.
+
+The future developer will not simply be someone who writes code. The future developer will be someone who understands how to use technology, AI tools, and engineering principles together to solve complex problems.
+
+AI will continue to evolve, but the fundamentals of software engineering will remain important. Strong programming skills, system design knowledge, and problem-solving ability will continue to separate great developers from average ones.
+
+The future of software development is not humans versus AI. It is humans using AI to create better, faster, and more innovative solutions.
+`,
+
+    coverImage: "/images/blog.jpg",
+
+      categories: [
+      
+      "TypeScript",
+    ],
+
+
+    publishedAt: "15 Jul 2026",
+
+    readingTime: "9 min",
+
+    featured: true,
+
+    popular: true,
+  },
+   {
+    id: "54",
+    slug: "future-of-ai",
+
+    title: "Future of AI in Software Development",
+
+    excerpt:
+      "Understanding how artificial intelligence is changing the future of software engineering.",
+
+    content: `
+# Future of AI in Software Development
+
+Artificial Intelligence is transforming the software development industry at an incredible speed. From code assistance to automated testing, AI tools are changing how developers design, build, and maintain applications.
+
+One of the biggest impacts of AI is increased developer productivity. AI-powered coding assistants can help developers generate code examples, explain complex concepts, identify bugs, and suggest improvements.
+
+However, AI is not replacing software engineers. Instead, it is becoming a powerful tool that allows developers to focus on higher-level problem solving. Understanding architecture, business requirements, security, and user experience remains essential.
+
+AI is also improving software testing. Traditional testing processes can require significant time and effort. AI-powered systems can analyze code, generate test cases, and identify possible issues before applications reach production.
+
+Another important area is automation. Developers can now use AI to automate repetitive tasks such as documentation generation, code refactoring, and data analysis. This allows teams to spend more time creating valuable features.
+
+AI is also influencing application development itself. Modern applications are increasingly integrating machine learning models, recommendation systems, chatbots, and intelligent automation features.
+
+For businesses, AI creates opportunities to build smarter products and improve customer experiences. Companies can analyze large amounts of data, automate workflows, and provide personalized services.
+
+However, AI adoption also introduces challenges. Developers must consider data privacy, security risks, model accuracy, and ethical concerns. Building responsible AI systems requires careful planning and understanding.
+
+The future developer will not simply be someone who writes code. The future developer will be someone who understands how to use technology, AI tools, and engineering principles together to solve complex problems.
+
+AI will continue to evolve, but the fundamentals of software engineering will remain important. Strong programming skills, system design knowledge, and problem-solving ability will continue to separate great developers from average ones.
+
+The future of software development is not humans versus AI. It is humans using AI to create better, faster, and more innovative solutions.
+`,
+
+    coverImage: "/images/blog.jpg",
+
+      categories: [
+      
+      "TypeScript",
+    ],
+
+
+    publishedAt: "15 Jul 2026",
+
+    readingTime: "9 min",
+
+    featured: true,
+
+    popular: true,
+  },
+   {
+    id: "34",
+    slug: "future-of-ai",
+
+    title: "Future of AI in Software Development",
+
+    excerpt:
+      "Understanding how artificial intelligence is changing the future of software engineering.",
+
+    content: `
+# Future of AI in Software Development
+
+Artificial Intelligence is transforming the software development industry at an incredible speed. From code assistance to automated testing, AI tools are changing how developers design, build, and maintain applications.
+
+One of the biggest impacts of AI is increased developer productivity. AI-powered coding assistants can help developers generate code examples, explain complex concepts, identify bugs, and suggest improvements.
+
+However, AI is not replacing software engineers. Instead, it is becoming a powerful tool that allows developers to focus on higher-level problem solving. Understanding architecture, business requirements, security, and user experience remains essential.
+
+AI is also improving software testing. Traditional testing processes can require significant time and effort. AI-powered systems can analyze code, generate test cases, and identify possible issues before applications reach production.
+
+Another important area is automation. Developers can now use AI to automate repetitive tasks such as documentation generation, code refactoring, and data analysis. This allows teams to spend more time creating valuable features.
+
+AI is also influencing application development itself. Modern applications are increasingly integrating machine learning models, recommendation systems, chatbots, and intelligent automation features.
+
+For businesses, AI creates opportunities to build smarter products and improve customer experiences. Companies can analyze large amounts of data, automate workflows, and provide personalized services.
+
+However, AI adoption also introduces challenges. Developers must consider data privacy, security risks, model accuracy, and ethical concerns. Building responsible AI systems requires careful planning and understanding.
+
+The future developer will not simply be someone who writes code. The future developer will be someone who understands how to use technology, AI tools, and engineering principles together to solve complex problems.
+
+AI will continue to evolve, but the fundamentals of software engineering will remain important. Strong programming skills, system design knowledge, and problem-solving ability will continue to separate great developers from average ones.
+
+The future of software development is not humans versus AI. It is humans using AI to create better, faster, and more innovative solutions.
+`,
+
+    coverImage: "/images/blog.jpg",
+
+      categories: [
+      
+      "TypeScript",
+    ],
+
+
+    publishedAt: "15 Jul 2026",
+
+    readingTime: "9 min",
+
+    featured: true,
+
+    popular: true,
+  },
+   {
+    id: "43",
+    slug: "future-of-ai",
+
+    title: "Future of AI in Software Development",
+
+    excerpt:
+      "Understanding how artificial intelligence is changing the future of software engineering.",
+
+    content: `
+# Future of AI in Software Development
+
+Artificial Intelligence is transforming the software development industry at an incredible speed. From code assistance to automated testing, AI tools are changing how developers design, build, and maintain applications.
+
+One of the biggest impacts of AI is increased developer productivity. AI-powered coding assistants can help developers generate code examples, explain complex concepts, identify bugs, and suggest improvements.
+
+However, AI is not replacing software engineers. Instead, it is becoming a powerful tool that allows developers to focus on higher-level problem solving. Understanding architecture, business requirements, security, and user experience remains essential.
+
+AI is also improving software testing. Traditional testing processes can require significant time and effort. AI-powered systems can analyze code, generate test cases, and identify possible issues before applications reach production.
+
+Another important area is automation. Developers can now use AI to automate repetitive tasks such as documentation generation, code refactoring, and data analysis. This allows teams to spend more time creating valuable features.
+
+AI is also influencing application development itself. Modern applications are increasingly integrating machine learning models, recommendation systems, chatbots, and intelligent automation features.
+
+For businesses, AI creates opportunities to build smarter products and improve customer experiences. Companies can analyze large amounts of data, automate workflows, and provide personalized services.
+
+However, AI adoption also introduces challenges. Developers must consider data privacy, security risks, model accuracy, and ethical concerns. Building responsible AI systems requires careful planning and understanding.
+
+The future developer will not simply be someone who writes code. The future developer will be someone who understands how to use technology, AI tools, and engineering principles together to solve complex problems.
+
+AI will continue to evolve, but the fundamentals of software engineering will remain important. Strong programming skills, system design knowledge, and problem-solving ability will continue to separate great developers from average ones.
+
+The future of software development is not humans versus AI. It is humans using AI to create better, faster, and more innovative solutions.
+`,
+
+    coverImage: "/images/blog.jpg",
+
+      categories: [
+      
+      "TypeScript",
+    ],
+
 
     publishedAt: "15 Jul 2026",
 

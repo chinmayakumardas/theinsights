@@ -8,8 +8,7 @@ export interface Article {
 
   coverImage: string;
 
-  category: string;
-
+ categories: string[];
   publishedAt: string;
   readingTime: string;
 
