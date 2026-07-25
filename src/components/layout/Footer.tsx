@@ -14,7 +14,7 @@ const footerLinks = [
     title: "Explore",
     links: [
       { name: "Home", href: "/" },
-      { name: "Articles", href: "/article" },
+      { name: "Articles", href: "/articles" },
       { name: "Categories", href: "/category/all" },
     ],
   },
