@@ -1,0 +1,16 @@
+/* TEAM */
+
+Site: Insights
+Website: https://insights.chinmayakumardas.com
+
+Developer:
+Chinmaya Kumar Das
+
+Tech Stack:
+Next.js
+Sanity CMS
+Tailwind CSS
+TypeScript
+
+Contact:
+https://insights.chinmayakumardas.com/contact

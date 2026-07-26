@@ -15,7 +15,6 @@ const footerLinks = [
     links: [
       { name: "Home", href: "/" },
       { name: "Articles", href: "/articles" },
-      { name: "Categories", href: "/category/all" },
     ],
   },
   {
@@ -23,14 +22,13 @@ const footerLinks = [
     links: [
       { name: "About", href: "/about" },
       { name: "Contact", href: "/contact" },
-      { name: "Newsletter", href: "/newsletter" },
     ],
   },
   {
     title: "Legal",
     links: [
       { name: "Privacy Policy", href: "/privacy-policy" },
-      { name: "Terms & Conditions", href: "/terms" },
+      { name: "Terms & Conditions", href: "/terms-and-conditions" },
     ],
   },
 ];
@@ -38,17 +36,17 @@ const footerLinks = [
 const socialLinks = [
   {
     name: "LinkedIn",
-    href: "https://linkedin.com/company/insights",
+    href: "https://linkedin.com/company/chinmayakumardas2",
     icon: FaLinkedin,
   },
   {
     name: "X",
-    href: "https://x.com/insights",
+    href: "https://x.com/chinmayakmrdas",
     icon: FaXTwitter,
   },
   {
     name: "GitHub",
-    href: "https://github.com/insights",
+    href: "https://github.com/chinmayakumardas",
     icon: FaGithub,
   },
 ];
