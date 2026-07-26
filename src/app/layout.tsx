@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Geist } from "next/font/google";
+import { GoogleAnalytics } from "@next/third-parties/google";
 
 import "./globals.css";
 
@@ -9,6 +10,11 @@ const geist = Geist({
   subsets: ["latin"],
   variable: "--font-sans",
 });
+const GOOGLE_SITE_VERIFICATION =
+  process.env.NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION;
+
+const GA_MEASUREMENT_ID =
+  process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID;
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://insights.chinmayakumardas.com"), // Change to your domain
@@ -56,6 +62,10 @@ export const metadata: Metadata = {
   robots: {
     index: true,
     follow: true,
+  },
+
+  verification: {
+    google: GOOGLE_SITE_VERIFICATION,
   },
 
   openGraph: {
@@ -106,6 +116,9 @@ export default function RootLayout({
     >
       <body className="min-h-screen bg-background font-sans antialiased">
         {children}
+        {GA_MEASUREMENT_ID && (
+          <GoogleAnalytics gaId={GA_MEASUREMENT_ID} />
+        )}
       </body>
     </html>
   );
