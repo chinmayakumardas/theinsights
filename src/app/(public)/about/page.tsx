@@ -100,7 +100,7 @@ export default function AboutPage() {
                 </p>
 
                 <p className="font-medium text-gray-900">
-                  Email: chinmaya@aas.technology
+                  Email: chinmayakumardas2000@gmail.com
                 </p>
               </section>
             </article>
