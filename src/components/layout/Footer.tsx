@@ -36,7 +36,7 @@ const footerLinks = [
 const socialLinks = [
   {
     name: "LinkedIn",
-    href: "https://linkedin.com/company/chinmayakumardas2",
+    href: "https://linkedin.com/in/chinmayakumardas2",
     icon: FaLinkedin,
   },
   {
