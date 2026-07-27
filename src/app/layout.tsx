@@ -10,8 +10,6 @@ const geist = Geist({
   subsets: ["latin"],
   variable: "--font-sans",
 });
-const GOOGLE_SITE_VERIFICATION =
-  process.env.NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION;
 
 const GA_MEASUREMENT_ID =
   process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID;
@@ -64,10 +62,7 @@ export const metadata: Metadata = {
     follow: true,
   },
 
-  verification: {
-    google: GOOGLE_SITE_VERIFICATION,
-  },
-
+ 
   openGraph: {
     type: "website",
     locale: "en_US",
